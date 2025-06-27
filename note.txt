@@ -1,0 +1,2 @@
+port : 192.168.185.51
+run mobile : flet run --android
